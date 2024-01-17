@@ -7,6 +7,6 @@ Tablas de multiplicar en node
 
       --help     Muestra ayuda                                        [booleano]
       --version  Muestra número de versión                            [booleano]
-      --base     Es la base de la tabla de multiplicar      [número] [requerido]
-      --listar   Muestra la tabla en consola         [booleano] [defecto: false]
-      --hasta    Muestra hasta que numero se va a multiplicar [número] [defecto: 10]
+      -b, --base     Es la base de la tabla de multiplicar      [número] [requerido]
+      -l, --listar   Muestra la tabla en consola         [booleano] [defecto: false]
+      -h, --hasta    Muestra hasta que numero se va a multiplicar [número] [defecto: 10]
